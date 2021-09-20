@@ -1,7 +1,7 @@
 format:
 		yarn format
 
-react:
+start:
 		yarn start
 
 eslint-react:
